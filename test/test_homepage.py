@@ -9,7 +9,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
-url = 'https://bitokk.biz/exchange/SBERRUB/BTC/MSK'
+
 
 
 def clear_text(element):
